@@ -21,7 +21,7 @@ public class FuncoesUteis { //Classe Principal
         }
     }
 
-    // Método que lê e imprime o conteúdo de um arquivo de texto
+    // método que lê e imprime o conteúdo de um arquivo de texto
     public void printArquivo(String arquivo) {
         try (BufferedReader br = new BufferedReader(new FileReader(arquivo))) {
             String linha;
