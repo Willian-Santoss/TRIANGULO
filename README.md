@@ -38,7 +38,7 @@ Xxxxx
    - Baixe e siga as instruções de instalação para a IDE escolhida.
 3. Crie e execute o projeto:
    - Abra a IDE e crie um novo projeto Java.
-   - Adicione os pacotes utilizades e main e as classes "FuncoesUteis" e "Main".
+   - Adicione os pacotes "utilidades" e "main" e as classes "FuncoesUteis" e "Main".
    - Compile e execute o projeto pelo método "main".
 
 # 🛠 Construído com 
