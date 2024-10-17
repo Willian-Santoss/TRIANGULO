@@ -1,4 +1,4 @@
-# HERANCA_2
+# TRIANGULO
 
 Este repositório contém um projeto em Java que implementa dois pacotes sendo eles funcoes e main; dentro do pacote funcoes a classe FuncoesUteis e dentro do pacote main a classe Main. A classe FuncoesUteis tem os métodos para calcular a soma de dois valores, criar um triangulo da altura desejada e criar o método para apresentar o texto do arquivo no resultado da classe Main e a classe Main tem os métodos para apresentar os resultados da soma, do triangulo e do texto do arquivo FuncoesUteis
 
